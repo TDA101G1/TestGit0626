@@ -10,17 +10,12 @@ package com.model;
  * 產生新的類別繼承動物類別
  */
 public class AnimalVO {
-	private String name;
+
+	private StringBuffer name;
 
 	private String test;
 	private Integer age;
 
-
-	
-
-
-
-	
 	
 	public String getName() {
 		return name;
