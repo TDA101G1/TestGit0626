@@ -14,9 +14,20 @@ public class AnimalVO {
 	private int age;
 
 	private String test;
+	private Integer age;
 
 
 	
 12313123
 
+
+	
+	
+	public int getAge() {
+		return age;
+	}
+	public void setAge(Integer age) {
+		this.age = age;
+	}
+	
 }
