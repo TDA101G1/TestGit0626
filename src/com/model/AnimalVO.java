@@ -11,18 +11,23 @@ package com.model;
  */
 public class AnimalVO {
 	private String name;
-	private int age;
 
 	private String test;
 	private Integer age;
 
 
 	
-12313123
+
 
 
 	
 	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
 	public int getAge() {
 		return age;
 	}
