@@ -12,6 +12,11 @@ package com.model;
 public class AnimalVO {
 	private String name;
 	private int age;
+
 	private String test;
+
+
+	
+12313123
 
 }
